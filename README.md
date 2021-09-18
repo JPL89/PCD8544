@@ -14,6 +14,7 @@ PB3 --> SDI (MOSI)<br />
 PB5 --> SCK (SCL)<br />
 
 <img align="left" width="400" height="400" src="https://github.com/josimarpereiraleite/PCD8544/blob/main/Images/Atmega8.png">
+<br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
 
 ## Usage
 
